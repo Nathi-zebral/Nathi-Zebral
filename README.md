@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathi-zebral" alt="nathi-zebral" /></a> </p>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/unQ3IJU2RG7DO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/unQ3IJU2RG7DO">via GIPHY</a></p>
+
 - 🔭 I’m currently studing at **Trybe**
 
 - 🌱 I’m currently learning **MySQL,MongoDB,Node.Js,QA**
